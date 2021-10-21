@@ -1,5 +1,0 @@
-INDEX VERSION 1.4+C:\Users\diama\Documents\GitHub\template\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3738967974.index
-270896898.index
-3441902125.index
-641582588.index
